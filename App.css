@@ -1,0 +1,30 @@
+.app-container {
+  text-align: center;
+  font-family: Arial, sans-serif;
+  margin-top: 50px;
+}
+
+.url-form input {
+  padding: 8px;
+  width: 300px;
+  margin-right: 10px;
+}
+
+.url-form button {
+  padding: 8px 15px;
+}
+
+.result.safe {
+  color: green;
+  margin-top: 20px;
+}
+
+.result.phishing {
+  color: red;
+  margin-top: 20px;
+}
+
+.loader {
+  margin-top: 20px;
+  font-style: italic;
+}
